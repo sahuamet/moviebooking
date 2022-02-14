@@ -1,0 +1,6 @@
+exports.getArtists=(req,res)=>{
+
+}
+
+
+
